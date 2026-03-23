@@ -5,6 +5,6 @@ My first repository for labwork1
 
 Спиридонов
 
-Евтющенко 
+Евтющенко Кирилл
 
 Напалков
