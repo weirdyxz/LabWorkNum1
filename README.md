@@ -7,4 +7,4 @@ My first repository for labwork1
 
 Евтющенко Кирилл
 
-Напалков
+Напалков Герман
